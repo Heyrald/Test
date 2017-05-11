@@ -1,0 +1,1 @@
+A:\programmering\Karakter Kalkulator\Test\Test\bin\Debug\Test.exe.config
